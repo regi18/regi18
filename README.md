@@ -1,4 +1,4 @@
-### Hi there, I'm Simone 👋
+### Hi there, I'm Simone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
 💻 Full Stack Developer<br>🎓 Computer Science and Engineering Student<br>📟 IoT and Electronics Hobbyist<br>📸 I also love to take pictures<br>🎸 And sometimes I play the guitar
 
