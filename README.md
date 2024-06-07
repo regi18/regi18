@@ -1,6 +1,6 @@
 ### Hi there, I'm Simone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
-🦾 Robotics and Controls MSc<br>
+🦾 Robotics and Controls Engineering MSc<br>
 🎓 Computer Science and Engineering BSc<br>
 💻 Full Stack Developer<br>
 📟 IoT and Electronics Hobbyist<br>
