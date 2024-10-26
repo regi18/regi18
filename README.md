@@ -7,11 +7,16 @@
 📸 I also love to take pictures<br>
 🎸 And sometimes I play the guitar
 
+<!-- 📝 https://regi18.github.io/blog<br> -->
+<!-- 🔗 https://simonecarletti.github.io -->
+
 ## 🌐 Socials
 [![Simone Carletti Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-carletti-it)
 [![Simone Carletti Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simonecarletti.work@gmail.com )
-[![Simone Carletti Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://simonecarletti.github.io/)
 [![Simone Carletti Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/simone_carletti/)
+[![Simone Carletti Website](https://img.shields.io/badge/Website-%2300599C?style=for-the-badge&logo=About.me&logoColor=white)](https://simonecarletti.github.io/)
+[![Simone Carletti Blog](https://img.shields.io/badge/Blog-f16529?style=for-the-badge&logo=Jekyll&logoColor=white)](https://regi18.github.io/blog)
+
 
 # 💻 Tech Stack
 ### Languages
