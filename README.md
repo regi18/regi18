@@ -3,9 +3,9 @@
 🦾 Robotics and Controls Engineering MSc<br>
 🎓 Computer Science and Engineering BSc<br>
 💻 Full Stack Developer<br>
-📟 IoT and Electronics Hobbyist<br>
-📸 I also love to take pictures<br>
-🎸 And sometimes I play the guitar
+📟 Electronics Hobbyist<br>
+📸 Photography enthusiast<br>
+🎸 Occasional guitar player
 
 <!-- 📝 https://regi18.github.io/blog<br> -->
 <!-- 🔗 https://simonecarletti.github.io -->
