@@ -22,7 +22,7 @@
 🤖 [Control system for a mobile robot](https://github.com/regi18/dtu-digital-control)<br>
 🧠 [Comparison and implementation of YOLO and U-Net](https://github.com/regi18/dtu-deep-learning)<br>
 🕹️ [Quoridor 4 Landtiger](https://github.com/regi18/quoridor-for-landtiger)<br>
-🦀 [A rust backup tool](https://github.com/regi18/progetto-pds-backup)<br>
+🦀 [A rust backup tool](https://github.com/regi18/polito-rust-backup)<br>
 🔌 [Espegi](https://github.com/regi18/Espegi)<br>
 
 # 💻 Tech Stack
