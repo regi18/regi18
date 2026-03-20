@@ -18,6 +18,7 @@
 [![Simone Carletti Blog](https://img.shields.io/badge/Blog-f16529?style=for-the-badge&logo=Jekyll&logoColor=white)](https://regi18.github.io/blog)
 
 # 🎓 Some Projects
+🛩️ [**Masters's Thesis** - Robust Control for an Avian-Inspired Morphing Drone](https://github.com/regi18/masters-thesis)<br>
 🤖 [Control system for a mobile robot](https://github.com/regi18/dtu-digital-control)<br>
 🧠 [Comparison and implementation of YOLO and U-Net](https://github.com/regi18/dtu-deep-learning)<br>
 🕹️ [Quoridor 4 Landtiger](https://github.com/regi18/quoridor-for-landtiger)<br>
